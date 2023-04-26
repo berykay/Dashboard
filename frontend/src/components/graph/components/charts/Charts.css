@@ -1,0 +1,36 @@
+.centered {
+    background: #282c34; 
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+
+.buttonGraph {
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 2px;
+    font-size: 8px;
+    font-weight: bold;
+    border-radius: 25px;
+    border: none;
+    transform: rotate(-90deg);
+    position:absolute;
+    left:0;
+  }
+  
+.buttonGraph:hover {
+  background-color: rgb(145, 33, 55);
+  color: whitesmoke;
+}
+
+

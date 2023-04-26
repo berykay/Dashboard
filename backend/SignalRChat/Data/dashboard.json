@@ -1,0 +1,111 @@
+[
+  {
+    "i": "1",
+    "chartType": "RadialChart",
+    "name": "Temperature",
+    "dataType": "Celcius",
+    "x": 0,
+    "y": 0,
+    "w": 2,
+    "h": 2,
+    "palette": "palette5"
+  },
+  {
+    "i": "2",
+    "chartType": "RadialChart",
+    "name": "Battery",
+    "dataType": "Percent",
+    "x": 2,
+    "y": 0,
+    "w": 2,
+    "h": 2,
+    "palette": "palette7"
+  },
+  {
+    "i": "3",
+    "chartType": "RadialChart",
+    "name": "DISK Usage",
+    "dataType": "Percent",
+    "x": 4,
+    "y": 0,
+    "w": 2,
+    "h": 2,
+    "palette": "palette8"
+  },
+  {
+    "i": "4",
+    "chartType": "RadialChart",
+    "name": "RAM Usage",
+    "dataType": "Percent",
+    "x": 6,
+    "y": 0,
+    "w": 2,
+    "h": 2,
+    "palette": "palette3"
+  },
+  {
+    "i": "5",
+    "chartType": "AreaChart",
+    "name": "Load Avg",
+    "dataType": "Percent",
+    "x": 8,
+    "y": 0,
+    "w": 4,
+    "h": 2,
+    "palette": "palette10"
+  },
+  {
+    "i": "6",
+    "chartType": "TimeChart",
+    "name": "TIME",
+    "dataType": "Minute",
+    "x": 12,
+    "y": 0,
+    "w": 4,
+    "h": 1
+  },
+  {
+    "i": "7",
+    "chartType": "AreaChart",
+    "name": "CPU Usage",
+    "dataType": "Percent",
+    "x": 0,
+    "y": 2,
+    "w": 8,
+    "h": 4,
+    "palette": "palette2"
+  },
+  {
+    "i": "8",
+    "chartType": "LineChart",
+    "name": "RAM Usage",
+    "dataType": "Percent",
+    "x": 8,
+    "y": 2,
+    "w": 4,
+    "h": 2,
+    "palette": "palette5"
+  },
+  {
+    "i": "9",
+    "chartType": "AreaChart",
+    "name": "Memory",
+    "dataType": "Bytes",
+    "x": 8,
+    "y": 4,
+    "w": 4,
+    "h": 2,
+    "palette": "palette7"
+  },
+  {
+    "i": "10",
+    "chartType": "AreaChart",
+    "name": "CPU Frequency",
+    "dataType": "Mhz",
+    "x": 12,
+    "y": 4,
+    "w": 4,
+    "h": 2,
+    "palette": "palette8"
+  }
+]

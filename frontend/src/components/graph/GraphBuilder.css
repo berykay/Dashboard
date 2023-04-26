@@ -1,0 +1,86 @@
+.colorDiv {
+  background-color: #383e4a;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  background-color: #383e4a;
+}
+
+.container8x {
+  height: 100%;
+  width: 100%;
+  margin: 10px;
+  text-align: center;
+}
+
+.chart {
+  background-color:#282c34;
+}
+
+.action-line {
+  background-color: #282c34;
+  height: 45px;
+  width: 100%;
+  position: relative;
+}
+.station {
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  right: 50%;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.station-button{
+  left: 10px;
+  text-align: center;
+  position: absolute;
+  margin: 4px;
+}
+
+.notification-button {
+  right: 140px;
+  border-color: #fff;
+  width: 150px;
+  background-color: #383e4a;
+  position: absolute;
+  margin: 6px 4px;
+  height: 35px; 
+  user-select: none;
+  border-radius: 15px;
+  border-width: 1px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.add-chart-button {
+  right: 10px;
+  text-align: center;
+  position: absolute;
+  margin: 4px;
+}
+
+.dropdown {
+  width: 130px; 
+  height: 35px; 
+  border-radius: 15px;
+  border-width: 1px; 
+  border-color: #fff;
+  background-color: #383e4a;
+}
+
+.remove{
+  position: absolute;
+  right: 8px;
+  cursor: pointer;
+  z-index: 99;
+  color: white;
+  font-size: 20px;
+  user-select: none;
+}

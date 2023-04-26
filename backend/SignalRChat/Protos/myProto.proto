@@ -1,0 +1,24 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "SignalRChat";
+
+package greet;
+
+service GreetService {
+  rpc GetNumbers (NumberRequest) returns (stream NumberResponse) {}
+}
+
+message NumberRequest {
+  int32 name = 1;
+}
+
+message NumberResponse {
+  bool recieved = 1;
+  int32 numberCPU = 2;
+  int32 numberRAM =3;
+  int32 numberDISK =4;
+  int32 numberCPUFreq = 5;
+  int32 numberLoadAvg = 6;
+  int32 numberBattery = 7;
+  repeated double numberCores = 8;
+}
