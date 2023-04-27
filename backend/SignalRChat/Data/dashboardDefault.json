@@ -86,12 +86,8 @@
     "h": 2,
     "palette": "palette5"
   },
-
-
-
-
   {
-    "i": "10",
+    "i": "9",
     "chartType": "AreaChart",
     "name": "Memory",
     "dataType": "Bytes",
@@ -102,7 +98,18 @@
     "palette": "palette7"
   },
   {
-    "i": "11",
+    "i": "10",
+    "chartType": "AreaChart",
+    "name": "CPU Frequency",
+    "dataType": "Mhz",
+    "x": 12,
+    "y": 4,
+    "w": 4,
+    "h": 2,
+    "palette": "palette8"
+  },
+  {
+    "i": "10",
     "chartType": "AreaChart",
     "name": "CPU Frequency",
     "dataType": "Mhz",

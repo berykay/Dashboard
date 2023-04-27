@@ -1746,11 +1746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Berkay\\Desktop\\bek\\work2\\SignalRChat\\SignalRChat.csproj",
+      "projectUniqueName": "C:\\Users\\Berkay\\Desktop\\gitle\\backend\\SignalRChat\\SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "C:\\Users\\Berkay\\Desktop\\bek\\work2\\SignalRChat\\SignalRChat.csproj",
+      "projectPath": "C:\\Users\\Berkay\\Desktop\\gitle\\backend\\SignalRChat\\SignalRChat.csproj",
       "packagesPath": "C:\\Users\\Berkay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Berkay\\Desktop\\bek\\work2\\SignalRChat\\obj\\",
+      "outputPath": "C:\\Users\\Berkay\\Desktop\\gitle\\backend\\SignalRChat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Berkay\\AppData\\Roaming\\NuGet\\NuGet.Config"

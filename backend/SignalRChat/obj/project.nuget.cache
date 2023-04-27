@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bTpIYp/08AB9hjNBNq2XI+k8DhIygLHybum09Lo3Ldp9p1GM87FIMhYOiWBFiIKQ1rA25Djm5EeoBwOgcMTLoA==",
+  "dgSpecHash": "01bW6TXYApzbS6NnliFz3Zcf4yqUAGxXaAbkOhEz2xjN3lfiopuc7mlAOZQ44VhtmNfN84rjKfBi85sXmDu+IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Berkay\\Desktop\\bek\\work2\\SignalRChat\\SignalRChat.csproj",
+  "projectFilePath": "C:\\Users\\Berkay\\Desktop\\gitle\\backend\\SignalRChat\\SignalRChat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Berkay\\.nuget\\packages\\google.protobuf\\3.21.12\\google.protobuf.3.21.12.nupkg.sha512",
     "C:\\Users\\Berkay\\.nuget\\packages\\grpc.aspnetcore\\2.32.0\\grpc.aspnetcore.2.32.0.nupkg.sha512",
