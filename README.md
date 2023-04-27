@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 1. Clone the repository from GitHub:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/berykay/Dashboard
    
 2. Go to the frontend directory.
 
