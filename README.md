@@ -2,6 +2,9 @@
 
 This project is a customizable dashboard built using ReactJS, React ApexCharts, React Toastify, and RSuite. It provides real-time computer data visualization such as RAM usage, CPU usage, and more. The backend is developed using .NET 3.1 and SignalR for communication between the frontend and backend.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74079494/234943973-4e0a2c74-69f9-4da5-83c0-2b8dce6de5e9.gif)
+
+
 ## Team Members
 
 - **Berkay Yıldız**  - @berykay
@@ -42,7 +45,6 @@ To run this project locally, follow these steps:
 
     ```shell
     npm run start
-
 
 The project should now be running on [http://localhost:3000](http://localhost:3000).
 
