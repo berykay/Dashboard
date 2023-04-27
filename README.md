@@ -35,13 +35,15 @@ To run this project locally, follow these steps:
 
    ```shell
    git clone https://github.com/your-username/your-repo.git
+   
+2. Go to the frontend directory.
 
-2. Install the required dependencies using npm:
+3. Install the required dependencies using npm:
 
     ```shell
     npm install
 
-3. Start the development server:
+4. Start the development server:
 
     ```shell
     npm run start
@@ -50,13 +52,28 @@ The project should now be running on [http://localhost:3000](http://localhost:30
 
 ## Configuration
 
+To configure the gRPC connection, follow these steps:
+
+1. Go to the frontend directory.
+
+2. Go to the proto file 
+    
+    ```shell
+   cd src\components\graph\proto
+
+3. Run the gRPC
+
+   ```shell
+   python .\RouteGuideServicer.py
+
 To configure the backend and SignalR connection, follow these steps:
 
-1. Open the `backend/config` directory.
+1. Open the `backend/SignalRChat` directory.
 
-2. Modify the necessary configuration files to specify the correct connection details for your system.
+2. Start backend
 
-3. Save the changes and restart the backend server.
+   ```shell
+   dotnet run
 
 ## Usage
 
