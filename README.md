@@ -7,8 +7,8 @@ This project is a customizable dashboard built using ReactJS, React ApexCharts, 
 
 ## Team Members
 
-- **Berkay Yıldız**  - @berykay
-- **Yağmur Üstel**  - @ymr22
+- [Berkay Yıldız](https://github.com/berykay)
+- [Yağmur Üstel](https://github.com/ymr22)
 
 ## Features
 
